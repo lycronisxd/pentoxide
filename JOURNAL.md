@@ -1,4 +1,6 @@
 <h3>entry 1, 19/07/26 : 12:31 - 13:33</h3>
+before starting pcb design, i hopped on excalidraw to try and make a layout that would be good to use.<br \>
+<img width="580" height="380" alt="image" src="https://github.com/user-attachments/assets/828b6c33-4dab-4c54-959e-2ce47947f7b6" /><br \>
 i first created the keyboard schematic since i already know how to wire a keyboard matrix.<br \>
 <img width="1320" height="334" alt="image" src="https://github.com/user-attachments/assets/318b0d3f-87ee-4e6a-95e2-5a59fb26d8bf" /><br \>
 i then researched the type of leds that i want to use in the keyboard.<br \>
@@ -18,6 +20,7 @@ and here is the final schematic!<br \>
 <h3>entry 2, 19/07/26 : 13:35 - 14:58</h3>
 this ENTIRE TIME was spent placing components, routing traces and making a board, because there are so many components to be placed and its going to be hell soldering all of them :)<br \>
 <img width="1142" height="334" alt="image" src="https://github.com/user-attachments/assets/b8c6c9e3-8463-44aa-8c24-aa6a2ebdb1a2" /><br \>
+<img width="999" height="246" alt="image" src="https://github.com/user-attachments/assets/3ad24fc1-2bc2-4c1e-ac2b-a42ca14d497a" /><br \>
 <br \>
 <b>entry time - 1 hour 23 minutes</b><br \>
 <b>total time - 2 hour 25 minutes</b>
