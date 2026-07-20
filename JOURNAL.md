@@ -47,3 +47,19 @@ so i changed the colours up a bit and added cherry profile keycaps i found on gr
 <b>entry time - 2 hours 56 minutes</b><br \>
 <b>total time - 5 hours 21 minutes</b>
 <hr>
+<h3>entry 4, 20/07/26 : 14:14 - 17:09</h3>
+the entire time was spent figuring out rendering and editing, so enjoy! <br \>
+got really inspired by the style of watchdogs 2 as i was editing them - so hopefully some can recognize it!<br \>
+<br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/250577e9-9f4c-4058-a5de-ebad69970fe0" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3d5e1f5-7030-4b3e-a3e3-16768d3b41ff" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59b4779c-d9f6-43a9-84a3-2a15ed474fe5" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f861106-99f3-4a52-956a-7fb6921a8a94" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2f2b779-8ee8-4beb-9300-3d5b6cb29970" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0351c8be-46ea-4144-9403-98996ab6f3c6" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6d130fc-2bb3-45a5-a400-4c127a386da6" /><br \>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abadb13f-4873-4cf8-84a7-a6cfe1bd4e84" /><br \>
+<br \>
+<b>entry time - 2 hours 55 minutes</b><br \>
+<b>total time - 8 hours 16 minutes</b>
+<hr>
