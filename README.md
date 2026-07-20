@@ -74,9 +74,9 @@
 
 <h3 align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2efd42f7-1078-4c4d-a306-e1f4fbedd322" width="700" height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5ac018fb-4700-4111-8b4f-f1ed9c2d6f2b" width="700" height="50">
-  <img alt="onshape project.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2efd42f7-1078-4c4d-a306-e1f4fbedd322">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5ac018fb-4700-4111-8b4f-f1ed9c2d6f2b">
+    <img alt="onshape project." width="700">
   </picture>
 </h3>
 
