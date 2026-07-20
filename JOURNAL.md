@@ -23,5 +23,27 @@ this ENTIRE TIME was spent placing components, routing traces and making a board
 <img width="999" height="246" alt="image" src="https://github.com/user-attachments/assets/3ad24fc1-2bc2-4c1e-ac2b-a42ca14d497a" /><br \>
 <br \>
 <b>entry time - 1 hour 23 minutes</b><br \>
-<b>total time - 2 hour 25 minutes</b>
+<b>total time - 2 hours 25 minutes</b>
+<hr>
+<h3>entry 3, 20/07/26 : 11:10 - 14:06</h3>
+strap in! i spent a lot of time in this session locked in!<br \>
+so, i first started by downloading the 3d model of the (old) pcb from kicad so i could insert into a new onshape project<br \>
+<img width="738" height="440" alt="image" src="https://github.com/user-attachments/assets/026bd4c0-225c-4c23-ad9f-fc34a9605140" /><br \>
+i then went on grabcad and found a 3d model of a 128x160 lcd that i could find easily on aliexpress and i found this!<br \>
+<img width="570" height="297" alt="image" src="https://github.com/user-attachments/assets/deabff41-54ae-4623-b03f-bcbfa787071e" /><br \>
+but i was unsure of the clearance between the screen and switches - and i found out that the switches clipped the display.<br \>
+so i spent some time on kicad removing one of the switches on each side so now theres 18 macro keys instead of 20!<br \>
+<img width="1384" height="435" alt="image" src="https://github.com/user-attachments/assets/5ae12c80-f77a-41f5-a0ad-1ffcdfaa89e1" /><br \>
+<img width="925" height="430" alt="image" src="https://github.com/user-attachments/assets/584e74fb-d195-4e0f-966a-8dc66b72a965" /><br \>
+so, once that was fixed - i made a plate to house the keys and display!<br \>
+<img width="1098" height="433" alt="image" src="https://github.com/user-attachments/assets/98dd8269-919f-43c9-a4c6-9ea23306344f" /><br \>
+and then after i put everything into place in the main assembly, i designed a case around the plate. (note. the big mounting holes are for m4 inserts to hold the pcb and plate in place)<br \>
+<img width="961" height="519" alt="image" src="https://github.com/user-attachments/assets/9c59b67d-1aa8-4b3e-bd68-9b2283a671eb" /><br \>
+and then, i got a cherry mx switch model from grabcad, bolts from onshape's content library, and put everything together in the main assembly - and it looked like this. ugly right?<br \>
+<img width="810" height="412" alt="image" src="https://github.com/user-attachments/assets/77a1244f-3b4d-4cac-ad3c-e73a4ae09e4b" /><br \>
+so i changed the colours up a bit and added cherry profile keycaps i found on grabcad and voila, the final product!<br \>
+<img width="1137" height="533" alt="image" src="https://github.com/user-attachments/assets/1fe60973-dba1-4785-91b7-bf60e023ea0d" /><br \>
+<br \>
+<b>entry time - 2 hours 56 minutes</b><br \>
+<b>total time - 5 hours 21 minutes</b>
 <hr>
