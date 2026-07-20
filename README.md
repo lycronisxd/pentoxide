@@ -32,6 +32,28 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9bdf022a-1525-41aa-828e-073f4a154f10" width="400" height="50">
   <img alt="features.">
   </picture>
+<pre align="left">
+{
+"microcontroller":"raspberry-pi-rp2040",
+"cpu-cores":"dual-core",
+"clock-speed":"133-mhz",
+"on-board-memory":"264-kb",
+"gpio-pins":"30x",
+"main-pcb":"pentoxide-mainboard",
+"1u-mx-switches":"18x",
+"rgb-capability":"y",
+"rgb-leds":"18x",
+"hotswap-capability":"y",
+"kailh-hotswap-sockets":"18x",
+"communication-sockets":"22x",
+"display-size":"1.8-inch",
+"display-resolution":"128x160",
+"display-type":"tft-lcd",
+"display-controller":"st7735s",
+"firmware":"custom"
+"via-compatibility":"y"
+}
+</pre>
 </h3>
 
 <hr>
@@ -74,7 +96,7 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cc7ed2a2-ad8b-48d3-9aa1-a35b94fa6213" width="400" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/99425989-8545-4953-9beb-130fe5d886a5" width="400" height="50">
-  <img alt="relevant links.">
+  <img alt="bill of materials.">
   </picture>
 </h3>
 
