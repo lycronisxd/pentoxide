@@ -33,8 +33,6 @@ pentoxide supports per-key rgb and a 128x160 1.8 inch lcd.
 </pre>
 </h3>
 
-</h3>
-
 <hr>
 
 <h3 align="center">
@@ -45,25 +43,25 @@ pentoxide supports per-key rgb and a 128x160 1.8 inch lcd.
   </picture>
 <pre align="left">
 {
-"microcontroller":"raspberry-pi-rp2040",
-"cpu-cores":"dual-core",
-"clock-speed":"133-mhz",
-"on-board-memory":"264-kb",
-"gpio-pins":"30x",
-"main-pcb":"pentoxide-mainboard",
-"1u-mx-switches":"18x",
-"switch-type":"everglide-aqua-king",
-"rgb-capability":"y",
-"rgb-leds":"18x",
-"hotswap-capability":"y",
-"kailh-hotswap-sockets":"18x",
-"communication-sockets":"22x",
-"display-size":"1.8-inch",
-"display-resolution":"128x160",
-"display-type":"tft-lcd",
-"display-controller":"st7735s",
-"firmware":"custom",
-"via-compatibility":"y"
+"microcontroller": "raspberry-pi-rp2040",
+"cpu-cores": "dual-core",
+"clock-speed": "133-mhz",
+"on-board-memory": "264-kb",
+"gpio-pins": "30x",
+"main-pcb": "pentoxide-mainboard",
+"1u-mx-switches": "18x",
+"switch-type": "everglide-aqua-king",
+"rgb-capability": "y",
+"rgb-leds": "18x",
+"hotswap-capability": "y",
+"kailh-hotswap-sockets": "18x",
+"communication-sockets": "22x",
+"display-size": "1.8-inch",
+"display-resolution": "128x160",
+"display-type": "tft-lcd",
+"display-controller": "st7735s",
+"firmware": "qmk",
+"via-compatibility": "y"
 }
 </pre>
 </h3>
