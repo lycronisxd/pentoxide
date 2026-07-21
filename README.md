@@ -94,9 +94,9 @@ pentoxide supports per-key rgb and a 128x160 1.8 inch lcd.
 link to the public onshape project.
 <a href="https://cad.onshape.com/documents/c17d4654dfdc64fa37b92d7c/w/b8eaedabc024b5a89ea703d7/e/db311653fe3b2444e14a3d99">https://pentoxide.onshape.com</a>
 link to repo kicad files.
-  
+<a href="https://github.com/lycronisxd/pentoxide/tree/main/pcb">cd /root/pentoxide/pcb</a>
 link to repo 3d printing files.
-
+<a href="https://github.com/lycronisxd/pentoxide/tree/main/3dprinting">cd /root/pentoxide/3dprinting</a>
 link to thingiverse 3d printing files.
 <a href="https://www.thingiverse.com/thing:7385880">https://www.pentoxide.thingiverse.com</a>
 </pre>
