@@ -54,7 +54,7 @@
 "display-resolution":"128x160",
 "display-type":"tft-lcd",
 "display-controller":"st7735s",
-"firmware":"custom"
+"firmware":"custom",
 "via-compatibility":"y"
 }
 </pre>
