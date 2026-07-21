@@ -110,6 +110,35 @@ link to thingiverse 3d printing files.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0805ec88-f31b-448b-9def-bbe6aa447988">
   <img alt="relevant links." width="700">
   </picture>
+  <pre align="left">
+&lt!DOCTYPE html&gt
+  &lthtml lang="en"&gt
+    &lthead&gt
+      &ltmeta charset="UTF-8"&gt
+      &lttitle&gtrelevant links!&lt/title&gt
+    &lt/head&gt
+  &ltbody&gt
+      &lth1&gthey there! below are some links to other projects that you can follow!&lt/h1&gt
+      &lt&gthr&lt&gt
+      &ltp&gt&lta href="https://github.com/lycronisxd/a-shift"&gt<a href="https://github.com/lycronisxd/a-shift">a-shift</a>&lt/a&gt&lt/p&gt
+      &ltp&gt&lta href="https://github.com/lycronisxd/oxide-one"&gt<a href="https://github.com/lycronisxd/oxide-one">oxide-one</a>&lt/a&gt&lt/p&gt
+      &ltp&gt&lta href="https://github.com/lycronisxd/ohm"&gt<a href="https://github.com/lycronisxd/ohm">ohm</a>&lt/a&gt&lt/p&gt
+  &lt/body&gt
+  &lt!--
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*************************************************#@@
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#%@@=.                    ..*#+         +#*.           =%@
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.=%@=.                    ..--:         *@%.           =%@
+  @@@@@#-=+-:::-%@@@@#-:::-*@@@=:#=:::-*@#-...:+=.:+#%%#*-..-*#=. .+##..*#+  .+#%%#*#@%. .:*#%%#=..=%@
+  @@@@@*..-#%%+:.+@@-.=%%%=.=%@-..*%%*.:*@#=.=#%=+%@-:.-*@*:.:#@#-#@*...#@* -#@*-::+@@%..+@#:.:+%#:=%@
+  @@@@@*.:#@@@@+..%*..====-:.*@-.+@@@%:.+@%+.=%@*%@-   .:%%=  .+%@@:. ..#@*.=@#:.  .*@%.-@%#****%@==%@
+  @@@@#-%%-   .+%%.+@%.........#@+.  .%%+ .+@*. =..*@@@@#:.+@@%-...:@@@%:.=@+ -#@@@@= :@#.:#@@@@@@@@@@
+  @@@@#-%@%-..+%@+..%@#...+@%-.#@+.  .%%+ .+@#:.++..#@@#-.-%@*:.*@=..#@%:.=@%-.-#%%=. :@%=.-%@@*::#@@@
+  @@@@#-%%**%%%*:.  .-#%%%#=. .*#=.  .##+ .:*%%**%%+::::-#@@+:-#@@@#::+%=:+@@@*-:::+*:-@@@#=::::*%@@@@
+  @@@@#-%%-                                     +%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  @@@@#-**-                                     +%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  @@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  --&gt
+</pre>
 </h3>
   
 <hr>
