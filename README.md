@@ -152,4 +152,25 @@ link to thingiverse 3d printing files.
   </picture>
 </h3>
 
+| item no. | part no. | part name          | qty. | supplier   | unit cost | total cost | notes                                  |
+|----------|----------|--------------------|----:|------------|----------:|-----------:|----------------------------------------|
+| 1 | PCB-001 | pentoxide-pcb | 1 | JLCPCB | $11.90 | $11.90 | - |
+| 2 | PCB-002 | 0805-100nf-cap | 18 | AliExpress | $0.04 | $3.62 | 100 pcs was the smallest i could find. |
+| 3 | PCB-003 | 0805-330-res | 1 | AliExpress | $2.64 | $2.64 | - |
+| 4 | PCB-004 | sod-123-1n4148w | 18 | AliExpress | $0.02 | $1.53 | 100 pcs was the smallest i could find. |
+| 5 | PCB-005 | kailh-hs-socket | 18 | AliExpress | $0.22 | $6.66 | 30 pcs was the smallest i could find. |
+| 6 | PCB-006 | sk6812-mini-e-led | 18 | AliExpress | $0.08 | $4.09 | 50 pcs was the smallest i could find. |
+| 7 | PCB-007 | 128x160-lcd | 1 | AliExpress | $3.82 | $3.82 | - |
+| 8 | PCB-008 | rp2040-pro-micro | 1 | AliExpress | $3.79 | $3.79 | - |
+| 9 | SW-001 | mmd-aqua-king | 18 | AliExpress | $0.53 | $15.81 | 30 pcs was the smallest i could find. |
+| 10 | SW-002 | cherry-keycap | 18 | AliExpress | $0.30 | $5.91 | 20 pcs was the smallest i could find. |
+| 11 | MNT-001 | m4-bolt | 10 | AliExpress | $8.97 | $8.97 | See notes below. |
+| 12 | MNT-002 | m2-bolt | 4 | AliExpress | - | - | Price included in M4 bolt price. |
+| 13 | MNT-003 | m2-nut | 4 | AliExpress | - | - | Price included in M4 bolt price. |
+| 14 | MNT-004 | m4-insert | 10 | AliExpress | $0.04 | $4.02 | 100 pcs was the smallest i could find. |
+| 15 | 3D-001 | pentoxide-plate | 1 | N/A | - | - | custom print / print legion. |
+| 16 | 3D-002 | pentoxide-case | 1 | N/A | - | - | custom print / print legion. |
+
+<br />
+<b>total cost : 72.76 USD (54.24 GBP)</b>
 <hr>
