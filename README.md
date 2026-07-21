@@ -19,13 +19,20 @@
 <!-- main body -->
 
 <h3 align="center">
-
-
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0eb199f3-a66a-426e-8b88-3ce38c6fcc99">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3255cb05-ad44-49c5-b112-34e3b81043f4">
   <img alt="about." width="700">
   </picture>
+  <pre align="left">
+pentoxide is an 18-key macro pad designed for creators and developers,
+blending design language and function.
+<br \>
+built on top of QMK firmware with VIA compatibility,
+pentoxide supports per-key rgb and a 128x160 1.8 inch lcd.
+</pre>
+</h3>
+
 </h3>
 
 <hr>
@@ -45,6 +52,7 @@
 "gpio-pins":"30x",
 "main-pcb":"pentoxide-mainboard",
 "1u-mx-switches":"18x",
+"switch-type":"everglide-aqua-king",
 "rgb-capability":"y",
 "rgb-leds":"18x",
 "hotswap-capability":"y",
@@ -82,6 +90,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5ac018fb-4700-4111-8b4f-f1ed9c2d6f2b">
     <img alt="onshape project." width="700">
   </picture>
+<pre align="left">
+link to the public onshape project.
+<a href="https://cad.onshape.com/documents/c17d4654dfdc64fa37b92d7c/w/b8eaedabc024b5a89ea703d7/e/db311653fe3b2444e14a3d99">https://pentoxide.onshape.com</a>
+link to repo kicad files.
+  
+link to repo 3d printing files.
+
+link to thingiverse 3d printing files.
+<a href="https://www.thingiverse.com/thing:7385880">https://www.pentoxide.thingiverse.com</a>
+</pre>
 </h3>
 
 <hr>
