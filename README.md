@@ -74,10 +74,13 @@ pentoxide supports per-key rgb and a 128x160 1.8 inch lcd.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7539e3ad-ad35-4bb8-8679-a545f65c9159">
   <img alt="showcase." width="700">
   </picture>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3d5e1f5-7030-4b3e-a3e3-16768d3b41ff" /><br \>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f861106-99f3-4a52-956a-7fb6921a8a94" /><br \>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0351c8be-46ea-4144-9403-98996ab6f3c6" /><br \>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abadb13f-4873-4cf8-84a7-a6cfe1bd4e84" /><br \>
+  <img width="1920" height="1080" alt="board image" src="https://github.com/user-attachments/assets/a3d5e1f5-7030-4b3e-a3e3-16768d3b41ff" /><br \>
+  <img width="1920" height="1080" alt="board image" src="https://github.com/user-attachments/assets/4f861106-99f3-4a52-956a-7fb6921a8a94" /><br \>
+  <img width="1920" height="1080" alt="board image" src="https://github.com/user-attachments/assets/0351c8be-46ea-4144-9403-98996ab6f3c6" /><br \>
+  <img width="1920" height="1080" alt="board image" src="https://github.com/user-attachments/assets/abadb13f-4873-4cf8-84a7-a6cfe1bd4e84" /><br \>
+  <img  alt="schematic" src="https://github.com/user-attachments/assets/611554b4-2f25-402d-b850-253b202c920b" /><br \>
+  <img  alt="kicad pcb image" src="https://github.com/user-attachments/assets/b85cbae8-7de7-4067-8b0d-63d2cee1fd4b" /><br \>
+
 </h3>
 
 <hr>
