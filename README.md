@@ -131,10 +131,12 @@ link to thingiverse 3d printing files.
     &lt/head&gt
   &ltbody&gt
       &lth1&gthey there! below are some links to other projects that you can follow!&lt/h1&gt
-      &lt&gthr&lt&gt
+      &lthr&gt
       &ltp&gt&lta href="https://github.com/lycronisxd/a-shift"&gt<a href="https://github.com/lycronisxd/a-shift">a-shift</a>&lt/a&gt&lt/p&gt
       &ltp&gt&lta href="https://github.com/lycronisxd/oxide-one"&gt<a href="https://github.com/lycronisxd/oxide-one">oxide-one</a>&lt/a&gt&lt/p&gt
       &ltp&gt&lta href="https://github.com/lycronisxd/ohm"&gt<a href="https://github.com/lycronisxd/ohm">ohm</a>&lt/a&gt&lt/p&gt
+      &ltp&gt&lta href="https://github.com/lycronisxd/peroxide"&gt<a href="https://github.com/lycronisxd/peroxide">peroxide</a>&lt/a&gt&lt/p&gt
+      &ltp&gt&lta href="https://github.com/lycronisxd/polylactic"&gt<a href="https://github.com/lycronisxd/polylactic">polylactic</a>&lt/a&gt&lt/p&gt
   &lt/body&gt
   &lt!--
   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*************************************************#@@
