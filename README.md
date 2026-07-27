@@ -12,6 +12,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/225eb73b-afd0-433c-afb1-c990a066f6d8">
   <img alt="your 18 key macro pad in a form factor as versatile as can be.">
   </picture>
+  <div align="center">
+    
+  ![kicad](https://img.shields.io/badge/kicad-blue?style=for-the-badge&logo=kicad)
+  ![blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+  ![onshape](https://img.shields.io/badge/onshape-green?style=for-the-badge&logo=onshape&logoColor=green)
+  ![rpi](https://img.shields.io/badge/raspberry%20pi-red?style=for-the-badge&logo=raspberrypi&logoColor=white)
+  ![qmk](https://img.shields.io/badge/qmk-black?style=for-the-badge&logo=qmk&logoColor=white)
+  ![via](https://img.shields.io/badge/via-pink?style=for-the-badge&logo=via&logoColor=white)
+
+
+  </div>
 </h3>
 
 <hr>
